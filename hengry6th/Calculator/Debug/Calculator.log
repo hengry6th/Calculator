@@ -1,0 +1,3 @@
+﻿  Calculator.cpp
+D:\QNMDGIT\Calculator\hengry6th\Calculator\Calculator.cpp(71,20): warning C4018: “<”: 有符号/无符号不匹配
+  Calculator.vcxproj -> D:\QNMDGIT\Calculator\hengry6th\Calculator\Debug\Calculator.exe
